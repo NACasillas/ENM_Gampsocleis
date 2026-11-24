@@ -71,7 +71,7 @@
 &nbsp;&nbsp;&nbsp;🟧 Normality w/ qqplot<br>
 &nbsp;&nbsp;&nbsp;🟧 Non parametric McSweeny and Porter ANCOVA<br>
 </details>
-🟥 <a href="https://github.com/NACasillas/ENM_Gampsocleis/blob/main/GamGla.ENM.md#-maxent-x-ellipsoid-envelop-model">Maxent x Ellipsoid Envelop model</a> 
+🟥 <a href="https://github.com/NACasillas/ENM_Gampsocleis/blob/main/GamGla.ENM.md#-maxent-x-ellipsoid-envelop-model">Maxent x Ellipsoid Envelope model</a> 
 
 
 ***
